@@ -44,4 +44,16 @@ LeetCode Questions Solved
 |  |
 | ------- |
 | [3380-shortest-subarray-with-or-at-least-k-ii](https://github.com/Kavya933/LeetCode/tree/master/3380-shortest-subarray-with-or-at-least-k-ii) |
+## Tree
+|  |
+| ------- |
+| [0543-diameter-of-binary-tree](https://github.com/Kavya933/LeetCode/tree/master/0543-diameter-of-binary-tree) |
+## Depth-First Search
+|  |
+| ------- |
+| [0543-diameter-of-binary-tree](https://github.com/Kavya933/LeetCode/tree/master/0543-diameter-of-binary-tree) |
+## Binary Tree
+|  |
+| ------- |
+| [0543-diameter-of-binary-tree](https://github.com/Kavya933/LeetCode/tree/master/0543-diameter-of-binary-tree) |
 <!---LeetCode Topics End-->
