@@ -18,6 +18,7 @@ LeetCode Questions Solved
 |  |
 | ------- |
 | [0142-linked-list-cycle-ii](https://github.com/Kavya933/LeetCode/tree/master/0142-linked-list-cycle-ii) |
+| [3018-make-string-a-subsequence-using-cyclic-increments](https://github.com/Kavya933/LeetCode/tree/master/3018-make-string-a-subsequence-using-cyclic-increments) |
 ## Design
 |  |
 | ------- |
@@ -56,4 +57,8 @@ LeetCode Questions Solved
 |  |
 | ------- |
 | [0543-diameter-of-binary-tree](https://github.com/Kavya933/LeetCode/tree/master/0543-diameter-of-binary-tree) |
+## String
+|  |
+| ------- |
+| [3018-make-string-a-subsequence-using-cyclic-increments](https://github.com/Kavya933/LeetCode/tree/master/3018-make-string-a-subsequence-using-cyclic-increments) |
 <!---LeetCode Topics End-->
