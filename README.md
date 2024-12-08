@@ -48,17 +48,24 @@ LeetCode Questions Solved
 ## Tree
 |  |
 | ------- |
+| [0113-path-sum-ii](https://github.com/Kavya933/LeetCode/tree/master/0113-path-sum-ii) |
 | [0543-diameter-of-binary-tree](https://github.com/Kavya933/LeetCode/tree/master/0543-diameter-of-binary-tree) |
 ## Depth-First Search
 |  |
 | ------- |
+| [0113-path-sum-ii](https://github.com/Kavya933/LeetCode/tree/master/0113-path-sum-ii) |
 | [0543-diameter-of-binary-tree](https://github.com/Kavya933/LeetCode/tree/master/0543-diameter-of-binary-tree) |
 ## Binary Tree
 |  |
 | ------- |
+| [0113-path-sum-ii](https://github.com/Kavya933/LeetCode/tree/master/0113-path-sum-ii) |
 | [0543-diameter-of-binary-tree](https://github.com/Kavya933/LeetCode/tree/master/0543-diameter-of-binary-tree) |
 ## String
 |  |
 | ------- |
 | [3018-make-string-a-subsequence-using-cyclic-increments](https://github.com/Kavya933/LeetCode/tree/master/3018-make-string-a-subsequence-using-cyclic-increments) |
+## Backtracking
+|  |
+| ------- |
+| [0113-path-sum-ii](https://github.com/Kavya933/LeetCode/tree/master/0113-path-sum-ii) |
 <!---LeetCode Topics End-->
