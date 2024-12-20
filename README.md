@@ -6,6 +6,7 @@ LeetCode Questions Solved
 ## Hash Table
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/Kavya933/LeetCode/tree/master/0001-two-sum) |
 | [0142-linked-list-cycle-ii](https://github.com/Kavya933/LeetCode/tree/master/0142-linked-list-cycle-ii) |
 | [0146-lru-cache](https://github.com/Kavya933/LeetCode/tree/master/0146-lru-cache) |
 | [2356-largest-combination-with-bitwise-and-greater-than-zero](https://github.com/Kavya933/LeetCode/tree/master/2356-largest-combination-with-bitwise-and-greater-than-zero) |
@@ -30,6 +31,7 @@ LeetCode Questions Solved
 ## Array
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/Kavya933/LeetCode/tree/master/0001-two-sum) |
 | [2179-most-beautiful-item-for-each-query](https://github.com/Kavya933/LeetCode/tree/master/2179-most-beautiful-item-for-each-query) |
 | [2356-largest-combination-with-bitwise-and-greater-than-zero](https://github.com/Kavya933/LeetCode/tree/master/2356-largest-combination-with-bitwise-and-greater-than-zero) |
 | [3380-shortest-subarray-with-or-at-least-k-ii](https://github.com/Kavya933/LeetCode/tree/master/3380-shortest-subarray-with-or-at-least-k-ii) |
