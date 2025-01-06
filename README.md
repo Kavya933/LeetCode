@@ -32,6 +32,7 @@ LeetCode Questions Solved
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/Kavya933/LeetCode/tree/master/0001-two-sum) |
+| [1895-minimum-number-of-operations-to-move-all-balls-to-each-box](https://github.com/Kavya933/LeetCode/tree/master/1895-minimum-number-of-operations-to-move-all-balls-to-each-box) |
 | [2179-most-beautiful-item-for-each-query](https://github.com/Kavya933/LeetCode/tree/master/2179-most-beautiful-item-for-each-query) |
 | [2356-largest-combination-with-bitwise-and-greater-than-zero](https://github.com/Kavya933/LeetCode/tree/master/2356-largest-combination-with-bitwise-and-greater-than-zero) |
 | [3380-shortest-subarray-with-or-at-least-k-ii](https://github.com/Kavya933/LeetCode/tree/master/3380-shortest-subarray-with-or-at-least-k-ii) |
@@ -66,6 +67,7 @@ LeetCode Questions Solved
 ## String
 |  |
 | ------- |
+| [1895-minimum-number-of-operations-to-move-all-balls-to-each-box](https://github.com/Kavya933/LeetCode/tree/master/1895-minimum-number-of-operations-to-move-all-balls-to-each-box) |
 | [3018-make-string-a-subsequence-using-cyclic-increments](https://github.com/Kavya933/LeetCode/tree/master/3018-make-string-a-subsequence-using-cyclic-increments) |
 ## Backtracking
 |  |
@@ -79,4 +81,8 @@ LeetCode Questions Solved
 |  |
 | ------- |
 | [2179-most-beautiful-item-for-each-query](https://github.com/Kavya933/LeetCode/tree/master/2179-most-beautiful-item-for-each-query) |
+## Prefix Sum
+|  |
+| ------- |
+| [1895-minimum-number-of-operations-to-move-all-balls-to-each-box](https://github.com/Kavya933/LeetCode/tree/master/1895-minimum-number-of-operations-to-move-all-balls-to-each-box) |
 <!---LeetCode Topics End-->
