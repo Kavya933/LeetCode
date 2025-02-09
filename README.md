@@ -35,6 +35,7 @@ LeetCode Questions Solved
 | [0001-two-sum](https://github.com/Kavya933/LeetCode/tree/master/0001-two-sum) |
 | [0027-remove-element](https://github.com/Kavya933/LeetCode/tree/master/0027-remove-element) |
 | [0542-01-matrix](https://github.com/Kavya933/LeetCode/tree/master/0542-01-matrix) |
+| [0898-transpose-matrix](https://github.com/Kavya933/LeetCode/tree/master/0898-transpose-matrix) |
 | [1895-minimum-number-of-operations-to-move-all-balls-to-each-box](https://github.com/Kavya933/LeetCode/tree/master/1895-minimum-number-of-operations-to-move-all-balls-to-each-box) |
 | [2179-most-beautiful-item-for-each-query](https://github.com/Kavya933/LeetCode/tree/master/2179-most-beautiful-item-for-each-query) |
 | [2356-largest-combination-with-bitwise-and-greater-than-zero](https://github.com/Kavya933/LeetCode/tree/master/2356-largest-combination-with-bitwise-and-greater-than-zero) |
@@ -103,4 +104,9 @@ LeetCode Questions Solved
 |  |
 | ------- |
 | [0542-01-matrix](https://github.com/Kavya933/LeetCode/tree/master/0542-01-matrix) |
+| [0898-transpose-matrix](https://github.com/Kavya933/LeetCode/tree/master/0898-transpose-matrix) |
+## Simulation
+|  |
+| ------- |
+| [0898-transpose-matrix](https://github.com/Kavya933/LeetCode/tree/master/0898-transpose-matrix) |
 <!---LeetCode Topics End-->
