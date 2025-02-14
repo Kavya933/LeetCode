@@ -43,6 +43,7 @@ LeetCode Questions Solved
 ## Bit Manipulation
 |  |
 | ------- |
+| [0231-power-of-two](https://github.com/Kavya933/LeetCode/tree/master/0231-power-of-two) |
 | [2356-largest-combination-with-bitwise-and-greater-than-zero](https://github.com/Kavya933/LeetCode/tree/master/2356-largest-combination-with-bitwise-and-greater-than-zero) |
 | [3380-shortest-subarray-with-or-at-least-k-ii](https://github.com/Kavya933/LeetCode/tree/master/3380-shortest-subarray-with-or-at-least-k-ii) |
 ## Counting
@@ -109,4 +110,12 @@ LeetCode Questions Solved
 |  |
 | ------- |
 | [0898-transpose-matrix](https://github.com/Kavya933/LeetCode/tree/master/0898-transpose-matrix) |
+## Math
+|  |
+| ------- |
+| [0231-power-of-two](https://github.com/Kavya933/LeetCode/tree/master/0231-power-of-two) |
+## Recursion
+|  |
+| ------- |
+| [0231-power-of-two](https://github.com/Kavya933/LeetCode/tree/master/0231-power-of-two) |
 <!---LeetCode Topics End-->
