@@ -96,6 +96,7 @@ LeetCode Questions Solved
 |  |
 | ------- |
 | [0542-01-matrix](https://github.com/Kavya933/LeetCode/tree/master/0542-01-matrix) |
+| [1013-fibonacci-number](https://github.com/Kavya933/LeetCode/tree/master/1013-fibonacci-number) |
 ## Breadth-First Search
 |  |
 | ------- |
@@ -114,8 +115,14 @@ LeetCode Questions Solved
 |  |
 | ------- |
 | [0231-power-of-two](https://github.com/Kavya933/LeetCode/tree/master/0231-power-of-two) |
+| [1013-fibonacci-number](https://github.com/Kavya933/LeetCode/tree/master/1013-fibonacci-number) |
 ## Recursion
 |  |
 | ------- |
 | [0231-power-of-two](https://github.com/Kavya933/LeetCode/tree/master/0231-power-of-two) |
+| [1013-fibonacci-number](https://github.com/Kavya933/LeetCode/tree/master/1013-fibonacci-number) |
+## Memoization
+|  |
+| ------- |
+| [1013-fibonacci-number](https://github.com/Kavya933/LeetCode/tree/master/1013-fibonacci-number) |
 <!---LeetCode Topics End-->
