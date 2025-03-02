@@ -18,6 +18,7 @@ LeetCode Questions Solved
 ## Two Pointers
 |  |
 | ------- |
+| [0026-remove-duplicates-from-sorted-array](https://github.com/Kavya933/LeetCode/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/Kavya933/LeetCode/tree/master/0027-remove-element) |
 | [0142-linked-list-cycle-ii](https://github.com/Kavya933/LeetCode/tree/master/0142-linked-list-cycle-ii) |
 | [0344-reverse-string](https://github.com/Kavya933/LeetCode/tree/master/0344-reverse-string) |
@@ -34,6 +35,7 @@ LeetCode Questions Solved
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/Kavya933/LeetCode/tree/master/0001-two-sum) |
+| [0026-remove-duplicates-from-sorted-array](https://github.com/Kavya933/LeetCode/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/Kavya933/LeetCode/tree/master/0027-remove-element) |
 | [0542-01-matrix](https://github.com/Kavya933/LeetCode/tree/master/0542-01-matrix) |
 | [0898-transpose-matrix](https://github.com/Kavya933/LeetCode/tree/master/0898-transpose-matrix) |
