@@ -7,6 +7,7 @@ LeetCode Questions Solved
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/Kavya933/LeetCode/tree/master/0001-two-sum) |
+| [0013-roman-to-integer](https://github.com/Kavya933/LeetCode/tree/master/0013-roman-to-integer) |
 | [0142-linked-list-cycle-ii](https://github.com/Kavya933/LeetCode/tree/master/0142-linked-list-cycle-ii) |
 | [0146-lru-cache](https://github.com/Kavya933/LeetCode/tree/master/0146-lru-cache) |
 | [2356-largest-combination-with-bitwise-and-greater-than-zero](https://github.com/Kavya933/LeetCode/tree/master/2356-largest-combination-with-bitwise-and-greater-than-zero) |
@@ -81,6 +82,7 @@ LeetCode Questions Solved
 ## String
 |  |
 | ------- |
+| [0013-roman-to-integer](https://github.com/Kavya933/LeetCode/tree/master/0013-roman-to-integer) |
 | [0344-reverse-string](https://github.com/Kavya933/LeetCode/tree/master/0344-reverse-string) |
 | [1895-minimum-number-of-operations-to-move-all-balls-to-each-box](https://github.com/Kavya933/LeetCode/tree/master/1895-minimum-number-of-operations-to-move-all-balls-to-each-box) |
 | [3018-make-string-a-subsequence-using-cyclic-increments](https://github.com/Kavya933/LeetCode/tree/master/3018-make-string-a-subsequence-using-cyclic-increments) |
@@ -124,6 +126,7 @@ LeetCode Questions Solved
 | ------- |
 | [0007-reverse-integer](https://github.com/Kavya933/LeetCode/tree/master/0007-reverse-integer) |
 | [0009-palindrome-number](https://github.com/Kavya933/LeetCode/tree/master/0009-palindrome-number) |
+| [0013-roman-to-integer](https://github.com/Kavya933/LeetCode/tree/master/0013-roman-to-integer) |
 | [0231-power-of-two](https://github.com/Kavya933/LeetCode/tree/master/0231-power-of-two) |
 | [1013-fibonacci-number](https://github.com/Kavya933/LeetCode/tree/master/1013-fibonacci-number) |
 ## Recursion
