@@ -39,6 +39,7 @@ LeetCode Questions Solved
 | [0001-two-sum](https://github.com/Kavya933/LeetCode/tree/master/0001-two-sum) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Kavya933/LeetCode/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/Kavya933/LeetCode/tree/master/0027-remove-element) |
+| [0035-search-insert-position](https://github.com/Kavya933/LeetCode/tree/master/0035-search-insert-position) |
 | [0542-01-matrix](https://github.com/Kavya933/LeetCode/tree/master/0542-01-matrix) |
 | [0898-transpose-matrix](https://github.com/Kavya933/LeetCode/tree/master/0898-transpose-matrix) |
 | [1895-minimum-number-of-operations-to-move-all-balls-to-each-box](https://github.com/Kavya933/LeetCode/tree/master/1895-minimum-number-of-operations-to-move-all-balls-to-each-box) |
@@ -93,6 +94,7 @@ LeetCode Questions Solved
 ## Binary Search
 |  |
 | ------- |
+| [0035-search-insert-position](https://github.com/Kavya933/LeetCode/tree/master/0035-search-insert-position) |
 | [2179-most-beautiful-item-for-each-query](https://github.com/Kavya933/LeetCode/tree/master/2179-most-beautiful-item-for-each-query) |
 ## Sorting
 |  |
