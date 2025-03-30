@@ -41,6 +41,7 @@ LeetCode Questions Solved
 | [0027-remove-element](https://github.com/Kavya933/LeetCode/tree/master/0027-remove-element) |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/Kavya933/LeetCode/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0035-search-insert-position](https://github.com/Kavya933/LeetCode/tree/master/0035-search-insert-position) |
+| [0053-maximum-subarray](https://github.com/Kavya933/LeetCode/tree/master/0053-maximum-subarray) |
 | [0542-01-matrix](https://github.com/Kavya933/LeetCode/tree/master/0542-01-matrix) |
 | [0898-transpose-matrix](https://github.com/Kavya933/LeetCode/tree/master/0898-transpose-matrix) |
 | [1895-minimum-number-of-operations-to-move-all-balls-to-each-box](https://github.com/Kavya933/LeetCode/tree/master/1895-minimum-number-of-operations-to-move-all-balls-to-each-box) |
@@ -109,6 +110,7 @@ LeetCode Questions Solved
 ## Dynamic Programming
 |  |
 | ------- |
+| [0053-maximum-subarray](https://github.com/Kavya933/LeetCode/tree/master/0053-maximum-subarray) |
 | [0542-01-matrix](https://github.com/Kavya933/LeetCode/tree/master/0542-01-matrix) |
 | [1013-fibonacci-number](https://github.com/Kavya933/LeetCode/tree/master/1013-fibonacci-number) |
 ## Breadth-First Search
@@ -143,4 +145,8 @@ LeetCode Questions Solved
 |  |
 | ------- |
 | [1013-fibonacci-number](https://github.com/Kavya933/LeetCode/tree/master/1013-fibonacci-number) |
+## Divide and Conquer
+|  |
+| ------- |
+| [0053-maximum-subarray](https://github.com/Kavya933/LeetCode/tree/master/0053-maximum-subarray) |
 <!---LeetCode Topics End-->
