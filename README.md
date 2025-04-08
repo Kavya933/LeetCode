@@ -37,6 +37,7 @@ LeetCode Questions Solved
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/Kavya933/LeetCode/tree/master/0001-two-sum) |
+| [0004-median-of-two-sorted-arrays](https://github.com/Kavya933/LeetCode/tree/master/0004-median-of-two-sorted-arrays) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Kavya933/LeetCode/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/Kavya933/LeetCode/tree/master/0027-remove-element) |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/Kavya933/LeetCode/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
@@ -96,6 +97,7 @@ LeetCode Questions Solved
 ## Binary Search
 |  |
 | ------- |
+| [0004-median-of-two-sorted-arrays](https://github.com/Kavya933/LeetCode/tree/master/0004-median-of-two-sorted-arrays) |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/Kavya933/LeetCode/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0035-search-insert-position](https://github.com/Kavya933/LeetCode/tree/master/0035-search-insert-position) |
 | [2179-most-beautiful-item-for-each-query](https://github.com/Kavya933/LeetCode/tree/master/2179-most-beautiful-item-for-each-query) |
@@ -148,5 +150,6 @@ LeetCode Questions Solved
 ## Divide and Conquer
 |  |
 | ------- |
+| [0004-median-of-two-sorted-arrays](https://github.com/Kavya933/LeetCode/tree/master/0004-median-of-two-sorted-arrays) |
 | [0053-maximum-subarray](https://github.com/Kavya933/LeetCode/tree/master/0053-maximum-subarray) |
 <!---LeetCode Topics End-->
