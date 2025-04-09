@@ -113,6 +113,7 @@ LeetCode Questions Solved
 |  |
 | ------- |
 | [0053-maximum-subarray](https://github.com/Kavya933/LeetCode/tree/master/0053-maximum-subarray) |
+| [0070-climbing-stairs](https://github.com/Kavya933/LeetCode/tree/master/0070-climbing-stairs) |
 | [0542-01-matrix](https://github.com/Kavya933/LeetCode/tree/master/0542-01-matrix) |
 | [1013-fibonacci-number](https://github.com/Kavya933/LeetCode/tree/master/1013-fibonacci-number) |
 ## Breadth-First Search
@@ -135,6 +136,7 @@ LeetCode Questions Solved
 | [0007-reverse-integer](https://github.com/Kavya933/LeetCode/tree/master/0007-reverse-integer) |
 | [0009-palindrome-number](https://github.com/Kavya933/LeetCode/tree/master/0009-palindrome-number) |
 | [0013-roman-to-integer](https://github.com/Kavya933/LeetCode/tree/master/0013-roman-to-integer) |
+| [0070-climbing-stairs](https://github.com/Kavya933/LeetCode/tree/master/0070-climbing-stairs) |
 | [0231-power-of-two](https://github.com/Kavya933/LeetCode/tree/master/0231-power-of-two) |
 | [1013-fibonacci-number](https://github.com/Kavya933/LeetCode/tree/master/1013-fibonacci-number) |
 ## Recursion
@@ -146,6 +148,7 @@ LeetCode Questions Solved
 ## Memoization
 |  |
 | ------- |
+| [0070-climbing-stairs](https://github.com/Kavya933/LeetCode/tree/master/0070-climbing-stairs) |
 | [1013-fibonacci-number](https://github.com/Kavya933/LeetCode/tree/master/1013-fibonacci-number) |
 ## Divide and Conquer
 |  |
