@@ -22,6 +22,7 @@ LeetCode Questions Solved
 | ------- |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Kavya933/LeetCode/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/Kavya933/LeetCode/tree/master/0027-remove-element) |
+| [0075-sort-colors](https://github.com/Kavya933/LeetCode/tree/master/0075-sort-colors) |
 | [0142-linked-list-cycle-ii](https://github.com/Kavya933/LeetCode/tree/master/0142-linked-list-cycle-ii) |
 | [0344-reverse-string](https://github.com/Kavya933/LeetCode/tree/master/0344-reverse-string) |
 | [3018-make-string-a-subsequence-using-cyclic-increments](https://github.com/Kavya933/LeetCode/tree/master/3018-make-string-a-subsequence-using-cyclic-increments) |
@@ -43,6 +44,7 @@ LeetCode Questions Solved
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/Kavya933/LeetCode/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0035-search-insert-position](https://github.com/Kavya933/LeetCode/tree/master/0035-search-insert-position) |
 | [0053-maximum-subarray](https://github.com/Kavya933/LeetCode/tree/master/0053-maximum-subarray) |
+| [0075-sort-colors](https://github.com/Kavya933/LeetCode/tree/master/0075-sort-colors) |
 | [0542-01-matrix](https://github.com/Kavya933/LeetCode/tree/master/0542-01-matrix) |
 | [0898-transpose-matrix](https://github.com/Kavya933/LeetCode/tree/master/0898-transpose-matrix) |
 | [1895-minimum-number-of-operations-to-move-all-balls-to-each-box](https://github.com/Kavya933/LeetCode/tree/master/1895-minimum-number-of-operations-to-move-all-balls-to-each-box) |
@@ -104,6 +106,7 @@ LeetCode Questions Solved
 ## Sorting
 |  |
 | ------- |
+| [0075-sort-colors](https://github.com/Kavya933/LeetCode/tree/master/0075-sort-colors) |
 | [2179-most-beautiful-item-for-each-query](https://github.com/Kavya933/LeetCode/tree/master/2179-most-beautiful-item-for-each-query) |
 ## Prefix Sum
 |  |
