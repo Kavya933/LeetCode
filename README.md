@@ -150,12 +150,14 @@ LeetCode Questions Solved
 | [0013-roman-to-integer](https://github.com/Kavya933/LeetCode/tree/master/0013-roman-to-integer) |
 | [0070-climbing-stairs](https://github.com/Kavya933/LeetCode/tree/master/0070-climbing-stairs) |
 | [0231-power-of-two](https://github.com/Kavya933/LeetCode/tree/master/0231-power-of-two) |
+| [0326-power-of-three](https://github.com/Kavya933/LeetCode/tree/master/0326-power-of-three) |
 | [1013-fibonacci-number](https://github.com/Kavya933/LeetCode/tree/master/1013-fibonacci-number) |
 ## Recursion
 |  |
 | ------- |
 | [0021-merge-two-sorted-lists](https://github.com/Kavya933/LeetCode/tree/master/0021-merge-two-sorted-lists) |
 | [0231-power-of-two](https://github.com/Kavya933/LeetCode/tree/master/0231-power-of-two) |
+| [0326-power-of-three](https://github.com/Kavya933/LeetCode/tree/master/0326-power-of-three) |
 | [1013-fibonacci-number](https://github.com/Kavya933/LeetCode/tree/master/1013-fibonacci-number) |
 ## Memoization
 |  |
