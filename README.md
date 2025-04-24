@@ -83,6 +83,7 @@ LeetCode Questions Solved
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/Kavya933/LeetCode/tree/master/0297-serialize-and-deserialize-binary-tree) |
 | [0543-diameter-of-binary-tree](https://github.com/Kavya933/LeetCode/tree/master/0543-diameter-of-binary-tree) |
 | [0572-subtree-of-another-tree](https://github.com/Kavya933/LeetCode/tree/master/0572-subtree-of-another-tree) |
+| [0744-network-delay-time](https://github.com/Kavya933/LeetCode/tree/master/0744-network-delay-time) |
 ## Binary Tree
 |  |
 | ------- |
@@ -133,6 +134,7 @@ LeetCode Questions Solved
 | [0102-binary-tree-level-order-traversal](https://github.com/Kavya933/LeetCode/tree/master/0102-binary-tree-level-order-traversal) |
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/Kavya933/LeetCode/tree/master/0297-serialize-and-deserialize-binary-tree) |
 | [0542-01-matrix](https://github.com/Kavya933/LeetCode/tree/master/0542-01-matrix) |
+| [0744-network-delay-time](https://github.com/Kavya933/LeetCode/tree/master/0744-network-delay-time) |
 ## Matrix
 |  |
 | ------- |
@@ -177,4 +179,16 @@ LeetCode Questions Solved
 |  |
 | ------- |
 | [0572-subtree-of-another-tree](https://github.com/Kavya933/LeetCode/tree/master/0572-subtree-of-another-tree) |
+## Graph
+|  |
+| ------- |
+| [0744-network-delay-time](https://github.com/Kavya933/LeetCode/tree/master/0744-network-delay-time) |
+## Heap (Priority Queue)
+|  |
+| ------- |
+| [0744-network-delay-time](https://github.com/Kavya933/LeetCode/tree/master/0744-network-delay-time) |
+## Shortest Path
+|  |
+| ------- |
+| [0744-network-delay-time](https://github.com/Kavya933/LeetCode/tree/master/0744-network-delay-time) |
 <!---LeetCode Topics End-->
