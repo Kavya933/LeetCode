@@ -82,6 +82,7 @@ LeetCode Questions Solved
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/Kavya933/LeetCode/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/Kavya933/LeetCode/tree/master/0297-serialize-and-deserialize-binary-tree) |
 | [0543-diameter-of-binary-tree](https://github.com/Kavya933/LeetCode/tree/master/0543-diameter-of-binary-tree) |
+| [0547-number-of-provinces](https://github.com/Kavya933/LeetCode/tree/master/0547-number-of-provinces) |
 | [0572-subtree-of-another-tree](https://github.com/Kavya933/LeetCode/tree/master/0572-subtree-of-another-tree) |
 | [0744-network-delay-time](https://github.com/Kavya933/LeetCode/tree/master/0744-network-delay-time) |
 | [1576-reorder-routes-to-make-all-paths-lead-to-the-city-zero](https://github.com/Kavya933/LeetCode/tree/master/1576-reorder-routes-to-make-all-paths-lead-to-the-city-zero) |
@@ -135,6 +136,7 @@ LeetCode Questions Solved
 | [0102-binary-tree-level-order-traversal](https://github.com/Kavya933/LeetCode/tree/master/0102-binary-tree-level-order-traversal) |
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/Kavya933/LeetCode/tree/master/0297-serialize-and-deserialize-binary-tree) |
 | [0542-01-matrix](https://github.com/Kavya933/LeetCode/tree/master/0542-01-matrix) |
+| [0547-number-of-provinces](https://github.com/Kavya933/LeetCode/tree/master/0547-number-of-provinces) |
 | [0744-network-delay-time](https://github.com/Kavya933/LeetCode/tree/master/0744-network-delay-time) |
 | [1576-reorder-routes-to-make-all-paths-lead-to-the-city-zero](https://github.com/Kavya933/LeetCode/tree/master/1576-reorder-routes-to-make-all-paths-lead-to-the-city-zero) |
 ## Matrix
@@ -184,6 +186,7 @@ LeetCode Questions Solved
 ## Graph
 |  |
 | ------- |
+| [0547-number-of-provinces](https://github.com/Kavya933/LeetCode/tree/master/0547-number-of-provinces) |
 | [0744-network-delay-time](https://github.com/Kavya933/LeetCode/tree/master/0744-network-delay-time) |
 | [1576-reorder-routes-to-make-all-paths-lead-to-the-city-zero](https://github.com/Kavya933/LeetCode/tree/master/1576-reorder-routes-to-make-all-paths-lead-to-the-city-zero) |
 ## Heap (Priority Queue)
@@ -194,4 +197,8 @@ LeetCode Questions Solved
 |  |
 | ------- |
 | [0744-network-delay-time](https://github.com/Kavya933/LeetCode/tree/master/0744-network-delay-time) |
+## Union Find
+|  |
+| ------- |
+| [0547-number-of-provinces](https://github.com/Kavya933/LeetCode/tree/master/0547-number-of-provinces) |
 <!---LeetCode Topics End-->
