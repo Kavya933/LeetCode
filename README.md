@@ -84,6 +84,7 @@ LeetCode Questions Solved
 | [0543-diameter-of-binary-tree](https://github.com/Kavya933/LeetCode/tree/master/0543-diameter-of-binary-tree) |
 | [0572-subtree-of-another-tree](https://github.com/Kavya933/LeetCode/tree/master/0572-subtree-of-another-tree) |
 | [0744-network-delay-time](https://github.com/Kavya933/LeetCode/tree/master/0744-network-delay-time) |
+| [1576-reorder-routes-to-make-all-paths-lead-to-the-city-zero](https://github.com/Kavya933/LeetCode/tree/master/1576-reorder-routes-to-make-all-paths-lead-to-the-city-zero) |
 ## Binary Tree
 |  |
 | ------- |
@@ -135,6 +136,7 @@ LeetCode Questions Solved
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/Kavya933/LeetCode/tree/master/0297-serialize-and-deserialize-binary-tree) |
 | [0542-01-matrix](https://github.com/Kavya933/LeetCode/tree/master/0542-01-matrix) |
 | [0744-network-delay-time](https://github.com/Kavya933/LeetCode/tree/master/0744-network-delay-time) |
+| [1576-reorder-routes-to-make-all-paths-lead-to-the-city-zero](https://github.com/Kavya933/LeetCode/tree/master/1576-reorder-routes-to-make-all-paths-lead-to-the-city-zero) |
 ## Matrix
 |  |
 | ------- |
@@ -183,6 +185,7 @@ LeetCode Questions Solved
 |  |
 | ------- |
 | [0744-network-delay-time](https://github.com/Kavya933/LeetCode/tree/master/0744-network-delay-time) |
+| [1576-reorder-routes-to-make-all-paths-lead-to-the-city-zero](https://github.com/Kavya933/LeetCode/tree/master/1576-reorder-routes-to-make-all-paths-lead-to-the-city-zero) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
