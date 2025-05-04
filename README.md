@@ -130,6 +130,7 @@ LeetCode Questions Solved
 | [0070-climbing-stairs](https://github.com/Kavya933/LeetCode/tree/master/0070-climbing-stairs) |
 | [0542-01-matrix](https://github.com/Kavya933/LeetCode/tree/master/0542-01-matrix) |
 | [1013-fibonacci-number](https://github.com/Kavya933/LeetCode/tree/master/1013-fibonacci-number) |
+| [3239-minimum-number-of-operations-to-make-x-and-y-equal](https://github.com/Kavya933/LeetCode/tree/master/3239-minimum-number-of-operations-to-make-x-and-y-equal) |
 ## Breadth-First Search
 |  |
 | ------- |
@@ -139,6 +140,7 @@ LeetCode Questions Solved
 | [0547-number-of-provinces](https://github.com/Kavya933/LeetCode/tree/master/0547-number-of-provinces) |
 | [0744-network-delay-time](https://github.com/Kavya933/LeetCode/tree/master/0744-network-delay-time) |
 | [1576-reorder-routes-to-make-all-paths-lead-to-the-city-zero](https://github.com/Kavya933/LeetCode/tree/master/1576-reorder-routes-to-make-all-paths-lead-to-the-city-zero) |
+| [3239-minimum-number-of-operations-to-make-x-and-y-equal](https://github.com/Kavya933/LeetCode/tree/master/3239-minimum-number-of-operations-to-make-x-and-y-equal) |
 ## Matrix
 |  |
 | ------- |
@@ -170,6 +172,7 @@ LeetCode Questions Solved
 | ------- |
 | [0070-climbing-stairs](https://github.com/Kavya933/LeetCode/tree/master/0070-climbing-stairs) |
 | [1013-fibonacci-number](https://github.com/Kavya933/LeetCode/tree/master/1013-fibonacci-number) |
+| [3239-minimum-number-of-operations-to-make-x-and-y-equal](https://github.com/Kavya933/LeetCode/tree/master/3239-minimum-number-of-operations-to-make-x-and-y-equal) |
 ## Divide and Conquer
 |  |
 | ------- |
