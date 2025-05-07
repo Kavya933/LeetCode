@@ -46,6 +46,7 @@ LeetCode Questions Solved
 | [0035-search-insert-position](https://github.com/Kavya933/LeetCode/tree/master/0035-search-insert-position) |
 | [0053-maximum-subarray](https://github.com/Kavya933/LeetCode/tree/master/0053-maximum-subarray) |
 | [0075-sort-colors](https://github.com/Kavya933/LeetCode/tree/master/0075-sort-colors) |
+| [0200-number-of-islands](https://github.com/Kavya933/LeetCode/tree/master/0200-number-of-islands) |
 | [0542-01-matrix](https://github.com/Kavya933/LeetCode/tree/master/0542-01-matrix) |
 | [0733-flood-fill](https://github.com/Kavya933/LeetCode/tree/master/0733-flood-fill) |
 | [0898-transpose-matrix](https://github.com/Kavya933/LeetCode/tree/master/0898-transpose-matrix) |
@@ -80,6 +81,7 @@ LeetCode Questions Solved
 |  |
 | ------- |
 | [0113-path-sum-ii](https://github.com/Kavya933/LeetCode/tree/master/0113-path-sum-ii) |
+| [0200-number-of-islands](https://github.com/Kavya933/LeetCode/tree/master/0200-number-of-islands) |
 | [0207-course-schedule](https://github.com/Kavya933/LeetCode/tree/master/0207-course-schedule) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/Kavya933/LeetCode/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/Kavya933/LeetCode/tree/master/0297-serialize-and-deserialize-binary-tree) |
@@ -138,6 +140,7 @@ LeetCode Questions Solved
 |  |
 | ------- |
 | [0102-binary-tree-level-order-traversal](https://github.com/Kavya933/LeetCode/tree/master/0102-binary-tree-level-order-traversal) |
+| [0200-number-of-islands](https://github.com/Kavya933/LeetCode/tree/master/0200-number-of-islands) |
 | [0207-course-schedule](https://github.com/Kavya933/LeetCode/tree/master/0207-course-schedule) |
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/Kavya933/LeetCode/tree/master/0297-serialize-and-deserialize-binary-tree) |
 | [0542-01-matrix](https://github.com/Kavya933/LeetCode/tree/master/0542-01-matrix) |
@@ -149,6 +152,7 @@ LeetCode Questions Solved
 ## Matrix
 |  |
 | ------- |
+| [0200-number-of-islands](https://github.com/Kavya933/LeetCode/tree/master/0200-number-of-islands) |
 | [0542-01-matrix](https://github.com/Kavya933/LeetCode/tree/master/0542-01-matrix) |
 | [0733-flood-fill](https://github.com/Kavya933/LeetCode/tree/master/0733-flood-fill) |
 | [0898-transpose-matrix](https://github.com/Kavya933/LeetCode/tree/master/0898-transpose-matrix) |
@@ -210,6 +214,7 @@ LeetCode Questions Solved
 ## Union Find
 |  |
 | ------- |
+| [0200-number-of-islands](https://github.com/Kavya933/LeetCode/tree/master/0200-number-of-islands) |
 | [0547-number-of-provinces](https://github.com/Kavya933/LeetCode/tree/master/0547-number-of-provinces) |
 ## Topological Sort
 |  |
