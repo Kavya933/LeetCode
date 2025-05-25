@@ -55,6 +55,7 @@ LeetCode Questions Solved
 | [2179-most-beautiful-item-for-each-query](https://github.com/Kavya933/LeetCode/tree/master/2179-most-beautiful-item-for-each-query) |
 | [2356-largest-combination-with-bitwise-and-greater-than-zero](https://github.com/Kavya933/LeetCode/tree/master/2356-largest-combination-with-bitwise-and-greater-than-zero) |
 | [3380-shortest-subarray-with-or-at-least-k-ii](https://github.com/Kavya933/LeetCode/tree/master/3380-shortest-subarray-with-or-at-least-k-ii) |
+| [3517-shortest-distance-after-road-addition-queries-i](https://github.com/Kavya933/LeetCode/tree/master/3517-shortest-distance-after-road-addition-queries-i) |
 ## Bit Manipulation
 |  |
 | ------- |
@@ -152,6 +153,7 @@ LeetCode Questions Solved
 | [0744-network-delay-time](https://github.com/Kavya933/LeetCode/tree/master/0744-network-delay-time) |
 | [1576-reorder-routes-to-make-all-paths-lead-to-the-city-zero](https://github.com/Kavya933/LeetCode/tree/master/1576-reorder-routes-to-make-all-paths-lead-to-the-city-zero) |
 | [3239-minimum-number-of-operations-to-make-x-and-y-equal](https://github.com/Kavya933/LeetCode/tree/master/3239-minimum-number-of-operations-to-make-x-and-y-equal) |
+| [3517-shortest-distance-after-road-addition-queries-i](https://github.com/Kavya933/LeetCode/tree/master/3517-shortest-distance-after-road-addition-queries-i) |
 ## Matrix
 |  |
 | ------- |
@@ -206,6 +208,7 @@ LeetCode Questions Solved
 | [0547-number-of-provinces](https://github.com/Kavya933/LeetCode/tree/master/0547-number-of-provinces) |
 | [0744-network-delay-time](https://github.com/Kavya933/LeetCode/tree/master/0744-network-delay-time) |
 | [1576-reorder-routes-to-make-all-paths-lead-to-the-city-zero](https://github.com/Kavya933/LeetCode/tree/master/1576-reorder-routes-to-make-all-paths-lead-to-the-city-zero) |
+| [3517-shortest-distance-after-road-addition-queries-i](https://github.com/Kavya933/LeetCode/tree/master/3517-shortest-distance-after-road-addition-queries-i) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
