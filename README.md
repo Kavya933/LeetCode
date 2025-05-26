@@ -51,6 +51,7 @@ LeetCode Questions Solved
 | [0542-01-matrix](https://github.com/Kavya933/LeetCode/tree/master/0542-01-matrix) |
 | [0733-flood-fill](https://github.com/Kavya933/LeetCode/tree/master/0733-flood-fill) |
 | [0898-transpose-matrix](https://github.com/Kavya933/LeetCode/tree/master/0898-transpose-matrix) |
+| [1171-shortest-path-in-binary-matrix](https://github.com/Kavya933/LeetCode/tree/master/1171-shortest-path-in-binary-matrix) |
 | [1895-minimum-number-of-operations-to-move-all-balls-to-each-box](https://github.com/Kavya933/LeetCode/tree/master/1895-minimum-number-of-operations-to-move-all-balls-to-each-box) |
 | [2179-most-beautiful-item-for-each-query](https://github.com/Kavya933/LeetCode/tree/master/2179-most-beautiful-item-for-each-query) |
 | [2356-largest-combination-with-bitwise-and-greater-than-zero](https://github.com/Kavya933/LeetCode/tree/master/2356-largest-combination-with-bitwise-and-greater-than-zero) |
@@ -151,6 +152,7 @@ LeetCode Questions Solved
 | [0547-number-of-provinces](https://github.com/Kavya933/LeetCode/tree/master/0547-number-of-provinces) |
 | [0733-flood-fill](https://github.com/Kavya933/LeetCode/tree/master/0733-flood-fill) |
 | [0744-network-delay-time](https://github.com/Kavya933/LeetCode/tree/master/0744-network-delay-time) |
+| [1171-shortest-path-in-binary-matrix](https://github.com/Kavya933/LeetCode/tree/master/1171-shortest-path-in-binary-matrix) |
 | [1576-reorder-routes-to-make-all-paths-lead-to-the-city-zero](https://github.com/Kavya933/LeetCode/tree/master/1576-reorder-routes-to-make-all-paths-lead-to-the-city-zero) |
 | [3239-minimum-number-of-operations-to-make-x-and-y-equal](https://github.com/Kavya933/LeetCode/tree/master/3239-minimum-number-of-operations-to-make-x-and-y-equal) |
 | [3517-shortest-distance-after-road-addition-queries-i](https://github.com/Kavya933/LeetCode/tree/master/3517-shortest-distance-after-road-addition-queries-i) |
@@ -161,6 +163,7 @@ LeetCode Questions Solved
 | [0542-01-matrix](https://github.com/Kavya933/LeetCode/tree/master/0542-01-matrix) |
 | [0733-flood-fill](https://github.com/Kavya933/LeetCode/tree/master/0733-flood-fill) |
 | [0898-transpose-matrix](https://github.com/Kavya933/LeetCode/tree/master/0898-transpose-matrix) |
+| [1171-shortest-path-in-binary-matrix](https://github.com/Kavya933/LeetCode/tree/master/1171-shortest-path-in-binary-matrix) |
 ## Simulation
 |  |
 | ------- |
